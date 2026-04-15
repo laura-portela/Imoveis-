@@ -7,6 +7,4 @@ dados$metragem <- as.numeric(as.character(dados$metragem))
 hist(dados$metragem)
 
 # ETAPA 3: Medidas
-mean(dados$imposto_anual, na.rm = TRUE)
-median(dados$imposto_anual, na.rm = TRUE)
-sd(dados$imposto_anual, na.rm = TRUE)
+# (será feito na branch medidas)
